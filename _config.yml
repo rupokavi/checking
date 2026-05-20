@@ -15,8 +15,8 @@ keywords: Rupok Islam Avi, IPE, RUET, Operations Research, Machine Learning, Opt
 lang: en
 icon: ⚙️
 
-url: https://rupokavi.github.io  # change to your GitHub Pages URL
-baseurl:                          # leave empty if repo is username.github.io
+url: https://rupokavi.github.io
+baseurl: /checking
 last_updated: true
 impressum_path:
 back_to_top: true
