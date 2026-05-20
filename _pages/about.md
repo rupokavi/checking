@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology (RUET)</a> · 
+  Department of Industrial & Production Engineering
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Pallabi, Mirpur-12</p>
+    <p>Dhaka-1216, Bangladesh</p>
+    <p>rupokislamavi.ruet@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This is **Rupok Islam Avi**; however, you can call me **Avi**. I am an undergraduate student of **Industrial & Production Engineering** at the Department of IPE, Rajshahi University of Engineering & Technology (RUET), Rajshahi.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on:
+- Risk management
+- Operations research
+- Machine learning
+- Healthcare supply chain optimization
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+---
+
+**Technical Skills**
+
+Proficient in **Operations Research (OR)** including stochastic programming, linear/nonlinear programming (LP, QP, MIP, MILP, MINLP), integer programming, game theory, scheduling, and computational complexity analysis, with tool expertise in **Gurobi**. Skilled in **Python** (Pandas, NumPy, Matplotlib, SciPy, TensorFlow, PyTorch, Keras), alongside **C/C++**. Experienced in data science workflows: statistical modeling, data mining, visualization (Tableau, PowerBI), database management. Advanced machine learning expertise in regression, clustering (SVM, Random Forest), ensemble methods, recommendation systems. Proficient with tools like **Git, Jupyter, PyCharm, and big-data systems**. Additional competencies include **Microsoft Office Suite**, and soft skills in leadership, critical thinking, and communication.
